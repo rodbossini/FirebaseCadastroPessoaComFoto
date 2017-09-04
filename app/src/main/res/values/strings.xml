@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirebaseCadastroPessoaComFoto</string>
+    <string name="action_settings">Settings</string>
+    <string name="dica_cpf">Digite seu cpf</string>
+    <string name="dica_nome">Digite seu nome</string>
+    <string name="dica_idade">Digite sua idade</string>
+    <string name="tire_uma_foto">Tire uma foto ou atualize a existente tocando nela.</string>
+</resources>

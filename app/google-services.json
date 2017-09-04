@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "826580661041",
+    "firebase_url": "https://fir-cadastropessoacomfoto.firebaseio.com",
+    "project_id": "fir-cadastropessoacomfoto",
+    "storage_bucket": "fir-cadastropessoacomfoto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826580661041:android:f0abd0f02d9000af",
+        "android_client_info": {
+          "package_name": "br.com.bossini.firebasecadastropessoacomfoto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826580661041-elvg6cp4ue0as7om34kvgv180sel63g0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.bossini.firebasecadastropessoacomfoto",
+            "certificate_hash": "c3bddbf41b56b01742f0babfa8c353114026c5f4"
+          }
+        },
+        {
+          "client_id": "826580661041-8va0gfeooug9l3hie26mg11h5netgk78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVei-H0RQKRPRPCRmr2ElmblTrhfNQx8w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826580661041-8va0gfeooug9l3hie26mg11h5netgk78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
