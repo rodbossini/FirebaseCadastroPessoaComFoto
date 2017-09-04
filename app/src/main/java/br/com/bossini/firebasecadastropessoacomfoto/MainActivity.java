@@ -59,7 +59,7 @@ public class MainActivity extends AppCompatActivity {
                 String nome = nomeEditText.getEditableText().toString();
                 int idade = Integer.parseInt(idadeEditText.getEditableText().toString());
                 final Pessoa pessoa = new Pessoa (cpf, nome, idade);
-
+                //teste
                 Bitmap bitmap = ((BitmapDrawable) fotoImageView.getDrawable()).getBitmap();
                 ByteArrayOutputStream bos = new ByteArrayOutputStream();
                 bitmap.compress(Bitmap.CompressFormat.PNG, 0, bos);
